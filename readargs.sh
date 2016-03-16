@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 
 # use predefined variables to access passed arguments
 #echo arguments to the shell
