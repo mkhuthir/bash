@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Eclipse
+Comment= "write your comment"
+Icon=/home/mkhuthir/Programs/eclipse/icon.xpm
+Exec=/home/mkhuthir/Programs/eclipse/eclipse
+Terminal=false
+Categories=Development;IDE;Java;
