@@ -1,0 +1,7 @@
+# FTDI USB-Serial FT232
+
+SUBSYSTEM=="usb", 
+
+ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", 
+
+GROUP="dailout", MODE="0666"
