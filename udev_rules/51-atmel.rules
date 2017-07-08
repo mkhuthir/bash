@@ -1,0 +1,6 @@
+#ATMEL Xplained
+
+SUBSYSTEMS=="usb", 
+ATTRS{idProduct}=="2145", ATTRS{idVendor}=="03eb", 
+GROUP="dialout"
+
